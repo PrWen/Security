@@ -1,0 +1,15 @@
+Basic Linux privilege escalation
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+
+Windows privilege escalation guide:
+https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
+
+Red-teaming
+
+Kali Linux official learning site
+kali.training
+
+Blue-teaming
+
+Intresseorganisation för i-säk inom gruvbranschen
+mmisac.org
