@@ -13,3 +13,6 @@ Blue-teaming
 
 Intresseorganisation för i-säk inom gruvbranschen
 mmisac.org
+
+Intrusion Kill chain (Lockheed Martin) Beskrivning av hur intrång kan genomföras. Kan med fördel kopplas till use-case. "A model for actionable intelligence when defenders align enterprise defensive capabilities to the specific processes an adversary undertakes to target that enterprise". 
+http://lmt.co/2miXqrZ
