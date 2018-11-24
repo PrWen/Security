@@ -1,2 +1,2 @@
 # Security
-A repository for security useful links etc
+This is a personal repository for useful sites regarding security. 
