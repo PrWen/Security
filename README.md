@@ -1,3 +1,2 @@
 # Security
-# informationssakerhet
-# informationssakerhet
+A repository for security useful links etc
